@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🌏 별명은 "졔졔", 영어 이름은 "웬디"
+😎 생각한 것을 시도하기 좋아하고, 어떤 길이든 개척하는 것에 두려움이 없어요!
+👄 뭔가에 푹 빠져있는 사람들, 편견을 부수는 사람들과의 대화를 즐깁니다
+👥 팀원과의 파이팅 넘치는 협업에 에너지가 차오르는 사람입니다
 
 <!--
 **chavly/chavly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
