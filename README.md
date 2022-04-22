@@ -8,7 +8,7 @@
 ✍🏻 무언가 그리거나 꾸미는 일, 감각적인 일을 좋아합니다</br>
 💜 보라색을 좋아해요
 
-### Tech Stack</br>
+### ✔Tech Stack</br>
 <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> <img src="https://img.shields.io/badge/-quasar framework-1976D2?style=for-the-badge&logo=Quasar&logoColor=black"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 
 
