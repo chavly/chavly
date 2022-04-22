@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black"> <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
 
 ### 👀Fun Fact</br>
-<img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTubep&logoColor=black">
+<a href="https://www.youtube.com/channel/UC9s-u7pvvyBArhVlqRrF-SA" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTubep&logoColor=black">
