@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Gitlog&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%10to%10my%10Gitlog&fontSize=90" />
 ### Welcome to my Gitlog❤</br>
 🌏 별명은 "졔졔", 영어 이름은 "웬디" </br>
 😎 생각한 것을 시도하기 좋아하고, 어떤 길이든 개척하는 것에 두려움이 없어요!</br>
