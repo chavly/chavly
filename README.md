@@ -12,10 +12,10 @@
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 
 ### ✔Tech Stack</br>
-<img src="https://img.shields.io/badge/-💡Used at the main-ffffff">
+<img src="https://img.shields.io/badge/-💡Used at the main-ffffff"></br>
 <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> <img src="https://img.shields.io/badge/-quasar framework-1976D2?style=for-the-badge&logo=Quasar&logoColor=black"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 
-<img src="https://img.shields.io/badge/-💡Used at least once-ffffff">
+<img src="https://img.shields.io/badge/-💡Used at least once-ffffff"></br>
 <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black"> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
 
 ### ✔Tools</br>
