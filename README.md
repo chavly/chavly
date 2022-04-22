@@ -8,6 +8,6 @@
 ✍🏻 무언가 그리거나 꾸미는 일, 감각적인 일을 좋아합니다</br>
 💜 보라색을 좋아해요
 
-### Language</br>
+### Languages</br>
 <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
-<img src="https://img.shields.io/badge/-quasar framework-blue?style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/badge/-quasar framework-1976D2?style=for-the-badge&logo=Quasar&logoColor=black">
