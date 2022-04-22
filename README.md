@@ -9,7 +9,7 @@
 💜 보라색을 좋아해요
 
 ### ✔Tech Stack</br>
-<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
+<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 ### ✔Tech Stack</br>
 <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> <img src="https://img.shields.io/badge/-quasar framework-1976D2?style=for-the-badge&logo=Quasar&logoColor=black"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
