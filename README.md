@@ -8,7 +8,7 @@
 ✍🏻 무언가 그리거나 꾸미는 일, 감각적인 일을 좋아합니다</br>
 💜 보라색을 좋아해요
 
-### Used Work Tools</br>
+### 🤝🏻Used Work Tools</br>
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 
 ### ✔Tech Stack</br>
@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/-💡Used at least once-ffffff"></br>
 <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black"> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
 
-### ✔Tools</br>
+### 🎨Tools</br>
 <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black"> <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
