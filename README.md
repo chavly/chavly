@@ -9,7 +9,7 @@
 💜 아름답고 무용한 것과 보라색을 좋아해요
 
 ### ✔Tech Stack</br>
-<img src="https://img.shields.io/badge/-💡Used at the main-ffffff" class="btn"></br>
+<img src="https://img.shields.io/badge/-💡Used at the main-ffffff" style="cursor:default"></br>
 <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> <img src="https://img.shields.io/badge/-quasar framework-1976D2?style=for-the-badge&logo=Quasar&logoColor=black"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 
 <img src="https://img.shields.io/badge/-💡Used at least once-ffffff"></br>
@@ -24,6 +24,3 @@
 ### 👀Fun Fact</br>
 <a href="https://www.youtube.com/channel/UC9s-u7pvvyBArhVlqRrF-SA" target="_blank"><img src="https://img.shields.io/badge/-chavly YouTube-f6f6f6?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
 
-<style>
-  .btn {cursor:pointer;}
-</style>
