@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7E38EC&height=300&section=header&text=Who%20is%20chavly?&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7E38EC&height=300&section=header&text=Who%20is%20chavly?&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 ### Welcome to my Gitlog❤</br>
 🌏 별명은 "졔졔", 영어 이름은 "웬디" </br>
