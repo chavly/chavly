@@ -9,7 +9,7 @@
 💜 아름답고 무용한 것과 보라색을 좋아해요
 
 ### 🤝🏻Used Work Tools</br>
-<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/-Notion-f6f6f6?style=for-the-badge&logo=Notion&logoColor=black"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 
 ### ✔Tech Stack</br>
 <img src="https://img.shields.io/badge/-💡Used at the main-ffffff"></br>
