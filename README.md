@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7E38EC&height=300&section=header&text=Welcome%20to%20my%20Gitlog❤&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7E38EC&height=300&section=header&text=Welcome%20to%20Wendy's%20Gitlog❤&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 ### Who is Wendy Cha?</br>
 🌏 별명은 "졔졔", 영어 이름은 "웬디" </br>
