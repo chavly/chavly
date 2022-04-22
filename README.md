@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Welcome to my Gitlog❤
 🌏 별명은 "졔졔", 영어 이름은 "웬디" </br>
 😎 생각한 것을 시도하기 좋아하고, 어떤 길이든 개척하는 것에 두려움이 없어요!</br>
