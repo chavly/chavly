@@ -9,6 +9,5 @@
 💜 보라색을 좋아해요
 
 
-<img src="https://img.shields.io/badge/-vue.js-brightgreen?style=for-the-badge&logo=이미지 이름&logoColor=black">
-<img src="https://img.shields.io/badge/-quasar framework-blue?style=for-the-badge&logo=이미지 이름&logoColor=black">
-<img src="https://img.shields.io/badge/-vue.js-brightgreen?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/-vue.js-brightgreen?style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/badge/-quasar framework-blue?style=flat-square&logo=appveyor">
