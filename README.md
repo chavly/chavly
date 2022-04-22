@@ -6,7 +6,7 @@
 👄 뭔가에 푹 빠져있는 사람들, 편견을 부수는 사람들과의 대화를 즐깁니다</br>
 👥 팀원과의 파이팅 넘치는 협업에 에너지가 차오르는 사람입니다</br>
 ✍🏻 무언가 그리거나 꾸미는 일, 감각적인 일을 좋아합니다</br>
-💜 보라색을 좋아해요
+💜 아름답고 무용한 것과 보라색을 좋아해요
 
 ### 🤝🏻Used Work Tools</br>
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
