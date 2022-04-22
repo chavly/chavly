@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black"> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
 
 ### ✔Tech Tools</br>
-<img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
+<img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black"> <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
